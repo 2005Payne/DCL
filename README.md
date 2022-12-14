@@ -1,1 +1,11 @@
 # DCL
+## GRANT
+GRANT 권한 TO 계정명;
+## REVOKE
+REVOKE CREATE 권한 FROM 계정명;
+## COMMIT
+중간저장   
+COMMIT;
+## ROLLBACK
+복구   
+ROLLBACK;
